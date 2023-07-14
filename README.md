@@ -7,8 +7,9 @@
 
 <h2> Punto 1: Link figma</h2>
 
-<a href="https://www.figma.com/file l5sXdON9YQOAAlJCBN2HlP/Sofia-Ib%C3%A1%C3%B1ez---Figma-excercise?type=design&node-id=5%3A194&mode=design&t=c1dOFxlBx0l9Wljb-1" target="_blank">Link de Figma</a>
+<a href="https://www.figma.com/file/l5sXdON9YQOAAlJCBN2HlP/Sofia-Ib%C3%A1%C3%B1ez---Figma-excercise?type=design&node-id=0%3A1&mode=design&t=B9CLcEcxWGamKZo5-1"target="_blank">Link de Figma</a>
+
+<a href="file:///C:/Users/Lenovo/Downloads/taller%209/taller-9-full-stack/index.html"tar</h2>et="_blank">Link pagina</a>
 
 <h2> Punto 2: HTML</h2>
-<img scr="./public/imagenes/punto 2.png" alt=" punto 2"
-
+<img src="./" alt="main-logo">
