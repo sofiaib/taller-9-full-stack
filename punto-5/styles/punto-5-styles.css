@@ -1,0 +1,29 @@
+div p samp{
+    color: black;
+    text-align: center;
+    
+}
+div p samp.b-1{
+    color: red;
+    
+}
+div p u.u-3{
+    color: green;
+}
+div p b.u-1{
+    color: red;
+    border-bottom: solid red;
+    font-size: 18px;
+}
+div p strong{
+    font-size: 30px;
+}
+div p b{
+    color: blue;
+    font-size: 18px;
+    line-height: 20px;
+}
+div p samp.b-2{
+    border-top: solid 1px;
+    border-bottom: solid 1px;
+}
