@@ -6,7 +6,7 @@
 <p>Profesor: Cristian Patiño</p>
 
 <h2> Punto 1: Link de la pagina</h2>
-<a href="taller-9-full-stack/index.html"target="_blank">Link de Pagina</a>
+<a href="https://sofiaib.github.io/taller-9-full-stack/"target="_blank">Link de Pagina</a>
 
 <h2> Punto 1: Link figma</h2>
 
