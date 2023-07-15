@@ -1,5 +1,25 @@
-#sec-1{
+#body{
+    margin: 0px;
+}
+header{
     display: flex;
+    justify-content: center;
     align-items: center;
-    border-style: solid;
+    border-style: solid pink;
+    gap: 40px;
+
+    width: 800px;
+    height: 100px;
+    padding: 10px;
+    background-color: pink;
+    cursor: pointer;  
+}
+.dos:hover{
+    background-color: blue;
+}
+.uno:hover{
+    background-color: blue;
+}
+.tres:hover{
+    background-color: blue;
 }

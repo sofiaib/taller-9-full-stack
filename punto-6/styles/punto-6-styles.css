@@ -1,9 +1,9 @@
 #banner{
     color: black;
 }
-#sec{
+.yellow{
     color: yellow;
 }
-#voy{
-    color: blueviolet;
+.violet{
+    color: rgb(142, 59, 163);
 }
