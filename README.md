@@ -5,11 +5,12 @@
 <p>Curso: full Stack Basico - Grupo 1</p>
 <p>Profesor: Cristian Patiño</p>
 
+<h2> Punto 1: Link de la pagina</h2>
+<a href="taller-9-full-stack/index.html"target="_blank">Link de Pagina</a>
+
 <h2> Punto 1: Link figma</h2>
 
 <a href="https://www.figma.com/file/l5sXdON9YQOAAlJCBN2HlP/Sofia-Ib%C3%A1%C3%B1ez---Figma-excercise?type=design&node-id=0%3A1&mode=design&t=B9CLcEcxWGamKZo5-1"target="_blank">Link de Figma</a>
-
-<a href="taller-9-full-stack/index.html"target="_blank">Link de Pagina</a>
 
 <h2> Punto 2: HTML</h2>
 <img src="./public/images/punto 2.png" alt="punto-2">
@@ -30,4 +31,4 @@
 <img src="./public/images/punto 7-8.png" alt="punto-7-8">
 
 <h2> Punto 9: HTML</h2>
-<img src="." alt="punto-9">
+<img src="./public/images/punto 9.png" alt="punto-9">
